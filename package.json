@@ -1,0 +1,28 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "this a test example",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TMQ520/example.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "tmq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TMQ520/example/issues"
+  },
+  "homepage": "https://github.com/TMQ520/example#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
